@@ -30,7 +30,7 @@
                 <addClasspath>true</addClasspath>
                 <classpathPrefix>libs/</classpathPrefix>
                 <mainClass>
-                    manual.ExcelRead
+                    manual.AdditionTest
                 </mainClass>
             </manifest>
         </archive>
